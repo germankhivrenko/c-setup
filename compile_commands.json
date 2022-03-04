@@ -1,0 +1,19 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-Isrc",
+            "-DNDEBUG",
+            "-g",
+            "-fPIC",
+            "-o",
+            "src/my_lib.o",
+            "src/my_lib.c"
+        ],
+        "directory": "/home/herman/Projects/clang/LearnC/c-skeleton",
+        "file": "src/my_lib.c"
+    }
+]

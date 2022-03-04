@@ -1,0 +1,6 @@
+[ERROR] (tests/my_lib.test.c:15: errno: None) Successfully failed.
+./tests/my_lib.test: RUNNING...
+----- RUNNING TEST: test_func
+----- RUNNING TEST: fail_on_purpose
+./tests/my_lib.test: FAILED: Successfully failed.
+./tests/my_lib.test: TESTS RUN: 2
